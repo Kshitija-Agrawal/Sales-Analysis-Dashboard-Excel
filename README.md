@@ -52,7 +52,7 @@ The dashboard analyzes sales performance across:
 ## File Structure
 
 * [Sales\_Analysis\_Dashboard.xlsx](https://1drv.ms/x/c/e83481bc4d6112c8/EXoz7gJh-7xEki03qyDrRWoBiD332jQIh3i-pvff9Rhv4g?e=Ot6azZ) — Interactive Excel Dashboard
-* [Sales\_Data.csv](./Sales_Data.csv) — Sample Dataset
+* [Sales\_Data.csv](https://github.com/Kshitija-Agrawal/Sales-Analysis-Dashboard-Excel/tree/main/fnp%20dataset) — Sample Dataset
 * [Dashboard\_Screenshot.png](https://github.com/Kshitija-Agrawal/Sales-Analysis-Dashboard-Excel/blob/main/Screenshot%202025-07-22%20022505.png) — Dashboard    Preview Image
   
 ## How to Use
@@ -68,7 +68,7 @@ The dashboard analyzes sales performance across:
    * View KPIs and interactive charts that update with your selections.
 
 4. **Review the Sample Data (Optional)**
-   * [Download Sample Data (.csv)](./Sales_Data.csv)
+   * [Download Sample Data (.csv)](https://github.com/Kshitija-Agrawal/Sales-Analysis-Dashboard-Excel/tree/main/fnp%20dataset)
    * You can replace the sample dataset with your own, maintaining the data structure for compatibility.
 
 5. **Customize or Extend**

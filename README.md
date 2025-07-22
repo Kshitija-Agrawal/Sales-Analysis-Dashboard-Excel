@@ -51,14 +51,14 @@ The dashboard analyzes sales performance across:
 
 ## File Structure
 
-* [Sales\_Analysis\_Dashboard.xlsx](https://1drv.ms/x/c/e83481bc4d6112c8/EXoz7gJh-7xEki03qyDrRWoBiD332jQIh3i-pvff9Rhv4g?e=Ot6azZ) — Interactive Excel Dashboard
+* [Sales\_Analysis\_Dashboard.xlsx](https://github.com/Kshitija-Agrawal/Sales-Analysis-Dashboard-Excel/blob/main/fnp%20project-github.xlsx) — Interactive Excel Dashboard
 * [Sales\_Data.csv](https://github.com/Kshitija-Agrawal/Sales-Analysis-Dashboard-Excel/tree/main/fnp%20dataset) — Sample Dataset
 * [Dashboard\_Screenshot.png](https://github.com/Kshitija-Agrawal/Sales-Analysis-Dashboard-Excel/blob/main/Screenshot%202025-07-22%20022505.png) — Dashboard    Preview Image
   
 ## How to Use
 
 1. **Download the Dashboard File**
-   * [Sales Analysis Dashboard (.xlsx)](./Sales_Analysis_Dashboard.xlsx)
+   * [Sales Analysis Dashboard (.xlsx)](https://github.com/Kshitija-Agrawal/Sales-Analysis-Dashboard-Excel/blob/main/fnp%20project-github.xlsx)
 
 2. **Open in Microsoft Excel**
    * Recommended for Excel 2016 or later (to ensure full functionality).
